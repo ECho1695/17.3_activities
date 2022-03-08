@@ -1,0 +1,47 @@
+.header {
+background-color: black;
+height: 250px;
+}
+
+.nav1 {
+  display: inline-block;
+  color: white;
+  font-size: large;
+  font-weight: bolder;
+  list-style: none;
+  padding: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.nav {
+  display: inline-block;
+  position: fixed;
+  right: 0;
+  margin-right: 25px;
+}
+
+.hero {
+  background-color: grey;
+}
+
+section {
+  height: 500px;
+  text-align: center;
+}
+
+#box {
+  background-color: grey;
+  width: 20%;
+  height: 500px;
+  opacity: 45%;
+  position: absolute;
+  right: 0;
+}
+
+.content {
+  background-color: silver;
+}
+
+#mid {
+  opacity: 50%;
+}
